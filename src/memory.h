@@ -1,0 +1,4 @@
+#ifndef ATHENA_MEMORY_H
+#define ATHENA_MEMORY_H
+
+#endif // ATHENA_MEMORY_H
